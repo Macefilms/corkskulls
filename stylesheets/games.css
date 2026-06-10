@@ -1,0 +1,10 @@
+.box{
+    justify-content: space-around;
+    margin: auto;
+    border: 5px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.gametile{
+    height: auto;
+}

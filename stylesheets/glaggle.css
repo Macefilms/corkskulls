@@ -1,0 +1,15 @@
+html {
+    background-image: url(/images/glaggle_background.png);
+}
+#drag {
+    position: absolute;
+    z-index: 9;
+    text-align: center;
+  }
+  
+#dragheader {
+    width: fit-content;
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+}
